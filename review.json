@@ -1,0 +1,27 @@
+{
+    "Summary": "The paper presents SepFormer, a novel transformer-based model for spectral domain image classification, demonstrating promising results on various datasets.",
+    "Strengths": [
+        "Introduces a new architecture (SepFormer) tailored to spectral image processing.",
+        "Shows competitive performance on multiple datasets."
+    ],
+    "Weaknesses": [
+        "Limited analysis on generalization capabilities.",
+        "Potential limitations in real-world scenarios are not thoroughly addressed."
+    ],
+    "Originality": 4,
+    "Quality": 3,
+    "Clarity": 4,
+    "Significance": 4,
+    "Questions": [
+        "How does SepFormer perform on unseen or real-world spectral data?",
+        "What are the potential limitations and how can they be mitigated?"
+    ],
+    "Limitations": "The paper should provide more analysis on generalization capabilities and potential limitations in real-world scenarios.",
+    "Ethical Concerns": false,
+    "Soundness": 3,
+    "Presentation": 4,
+    "Contribution": 4,
+    "Overall": 19,
+    "Confidence": 4,
+    "Decision": "accept with conditions"
+}
